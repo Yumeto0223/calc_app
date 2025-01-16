@@ -7,6 +7,6 @@
 </head>
 <body>
     <h1>計算アプリ</h1>
-    <p> {{ $result }}</p>
+    <p>{{ $result }}</p>
 </body>
 </html>
