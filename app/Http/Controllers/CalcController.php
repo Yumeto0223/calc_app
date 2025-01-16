@@ -1,8 +1,7 @@
 <?php
 
 namespace App\Http\Controllers;
-// namespace App\Http\CalcContoller;
-// use App\Http\Cotrnoller\Controller;
+
 use Illuminate\Http\Request;
 
 class CalcController extends Controller
